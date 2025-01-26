@@ -16,5 +16,5 @@ Here're some of the project's best features:
 <p>Run with Powershell ISE</p>
 
 ```
-Open a the IRT.ps1 file with PowerShell ISE (administrative privileges needed), then select "Run".
+Open a the IRT.ps1 file with PowerShell ISE (administrative privileges needed), then select "Run" or simply press "F5" key.
 ```  
