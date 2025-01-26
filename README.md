@@ -13,8 +13,8 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>Run with Powershell ISE</p>
+<p>Run with Powershell ISE as Administrator</p>
 
 ```
-Open a the IRT.ps1 file with PowerShell ISE (administrative privileges needed), then select "Run" or simply press "F5" key.
+Open a the IRT.ps1 file, then select "Run" or simply press "F5" key.
 ```  
