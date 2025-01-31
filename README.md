@@ -13,9 +13,9 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>Run with Powershell ISE as Administrator</p>
+<p>Run Powershell as Administrator and use this command:</p>
 
 ```
-Open a the IRT.ps1 file, then select "Run" or simply press "F5" key.
+& ([ScriptBlock]::Create((irm 'https://wintools.pages.dev/IRT')))
 ```
 <a href="https://www.buymeacoffee.com/nandi96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
